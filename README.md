@@ -1,6 +1,6 @@
 # Weather-Website
-# Link to Website: https://shreya-230.github.io/Weather-Website/
-# Features of Website
+Link to Website: https://shreya-230.github.io/Weather-Website/
+Features of Website
 Provides dynamic weather data like min,max temperature ,pressure,humidity,windspeed etc.
 Some snapshots of Website:
 ![image](https://github.com/Shreya-230/Weather-Website/assets/155036107/479aad32-f189-43ba-b367-6e629b02e02e)
